@@ -1,7 +1,7 @@
 # Checkpoint-Sorting-and-searching-algorithms
 
 
- - Checkpoint-Data Structure
+ - Checkpoint-sorting Algorihm
 
 
 ## Built With
