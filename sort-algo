@@ -1,6 +1,6 @@
 ALGORITHM sorting Alorithm
 VAR
-  var arr = [12, 11, 13, 5, 6]
+  var arr = [12, 11, 13, 5, 7]
 BEGIN
   FOR i FROM 1 TO arr.length STEP i++  DO
     key = arr[i]
